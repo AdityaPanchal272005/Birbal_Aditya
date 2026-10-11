@@ -1,0 +1,14 @@
+name,type,unit,source,description
+age,numeric,years,applicant,Age of the applicant in years
+monthly_net_income,numeric,INR,document,Net monthly take-home salary after deductions
+employer_type,categorical,,applicant,"Type of employer: PSU / MNC / Private / Self-Employed / Government"
+employment_tenure_months,numeric,months,applicant,Total months of continuous work experience at current employer
+total_work_experience_months,numeric,months,applicant,Total months of work experience across all employers
+city_tier,categorical,,applicant,"City tier where applicant resides: Tier1 / Tier2 / Tier3"
+cibil_score,numeric,score,bureau,Credit score from CIBIL (range 300-900). Use 0 if no credit history.
+existing_emi_monthly,numeric,INR,bureau,Total monthly EMI obligations across all existing loans
+number_of_existing_loans,numeric,count,bureau,Number of active loans the applicant currently has
+loan_amount_requested,numeric,INR,applicant,Loan amount the applicant wants to borrow
+loan_tenure_months,numeric,months,applicant,Desired repayment tenure in months
+has_existing_credit_card,boolean,,bureau,Whether applicant has an active credit card (True/False)
+pan_available,boolean,,document,Whether applicant has a valid PAN card (True/False)

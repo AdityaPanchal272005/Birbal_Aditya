@@ -1,0 +1,21 @@
+lender,min_age,max_age,min_monthly_income_inr,min_cibil_score,min_employment_tenure_months,accepted_employer_types,min_loan_amount_inr,max_loan_amount_inr,min_tenure_months,max_tenure_months,interest_rate_min_pct,interest_rate_max_pct,max_foir_pct,max_salary_multiple,city_tier_allowed,source_url,date_collected,confirmed
+HDFC Bank,21,60,25000,700,12,"PSU,MNC,Private,Government",50000,4000000,12,60,10.5,21.0,50,27,"Tier1,Tier2,Tier3",https://www.hdfcbank.com/personal/borrow/popular-loans/personal-loan,2026-10-11,confirmed
+SBI,21,58,25000,700,12,"PSU,Government,MNC,Private",25000,2000000,6,72,11.15,15.3,50,24,"Tier1,Tier2,Tier3",https://sbi.co.in/web/personal-banking/loans/personal-loans,2026-10-11,confirmed
+ICICI Bank,20,58,30000,700,12,"PSU,MNC,Private,Government",50000,5000000,12,72,10.65,16.0,55,20,"Tier1,Tier2,Tier3",https://www.icicibank.com/personal-banking/loans/personal-loan,2026-10-11,confirmed
+Axis Bank,21,60,25000,700,12,"PSU,MNC,Private,Government",50000,4000000,12,60,10.49,22.0,50,20,"Tier1,Tier2,Tier3",https://www.axisbank.com/retail/loans/personal-loan,2026-10-11,confirmed
+Kotak Mahindra Bank,21,58,25000,700,12,"PSU,MNC,Private,Government",50000,4000000,12,60,10.99,24.0,50,20,"Tier1,Tier2,Tier3",https://www.kotak.com/en/personal-banking/loans/personal-loan.html,2026-10-11,confirmed
+Bajaj Finserv,21,67,25001,685,6,"PSU,MNC,Private,Government,Self-Employed",100000,4000000,12,96,11.0,35.0,55,20,"Tier1,Tier2,Tier3",https://www.bajajfinserv.in/personal-loan,2026-10-11,confirmed
+Tata Capital,22,58,20000,725,12,"PSU,MNC,Private,Government,Self-Employed",75000,3500000,12,72,10.99,35.0,75,20,"Tier1,Tier2,Tier3",https://www.tatacapital.com/personal-loan.html,2026-10-11,confirmed
+IndusInd Bank,21,60,25000,700,12,"PSU,MNC,Private,Government",50000,5000000,12,60,10.49,33.0,55,20,"Tier1,Tier2",https://www.indusind.com/in/en/personal/loans/personal-loan.html,2026-10-11,confirmed
+Yes Bank,22,60,25000,700,12,"PSU,MNC,Private,Government",100000,4000000,12,60,10.99,20.0,50,20,"Tier1,Tier2",https://www.yesbank.in/personal-banking/yes-individual/loans/personal-loan,2026-10-11,confirmed
+IDFC First Bank,21,60,25000,710,6,"PSU,MNC,Private,Government",20000,1500000,6,60,10.49,36.0,50,20,"Tier1,Tier2,Tier3",https://www.idfcfirstbank.com/personal-banking/loans/personal-loan,2026-10-11,confirmed
+Federal Bank,21,60,15000,650,12,"PSU,MNC,Private,Government",50000,2500000,12,60,11.49,14.49,50,20,"Tier1,Tier2,Tier3",https://www.federalbank.co.in/personal-loan,2026-10-11,confirmed
+Punjab National Bank,21,58,15000,650,24,"PSU,Government,MNC,Private",20000,2000000,12,72,10.4,16.95,50,24,"Tier1,Tier2,Tier3",https://www.pnbindia.in/personal-loan.html,2026-10-11,confirmed
+Bank of Baroda,21,60,20000,650,12,"PSU,Government,MNC,Private",50000,2000000,12,60,11.05,18.75,50,20,"Tier1,Tier2,Tier3",https://www.bankofbaroda.in/personal-banking/loans/personal-loan,2026-10-11,confirmed
+Canara Bank,21,60,15000,650,24,"PSU,Government,MNC,Private",25000,1000000,12,60,13.5,15.0,40,20,"Tier1,Tier2,Tier3",https://canarabank.com/User_page.aspx?menuid=288&CatID=3&SubCatID=288,2026-10-11,confirmed
+Union Bank of India,21,58,15000,650,24,"PSU,Government,MNC,Private",25000,1500000,12,60,11.35,15.0,50,20,"Tier1,Tier2,Tier3",https://www.unionbankofindia.co.in/english/Personal-Loan.aspx,2026-10-11,confirmed
+Fullerton India,21,60,15000,650,12,"PSU,MNC,Private,Government,Self-Employed",50000,2500000,12,60,11.99,36.0,65,20,"Tier1,Tier2,Tier3",https://www.fullertonindia.com/personal-loan.aspx,2026-10-11,confirmed
+Muthoot Finance,21,65,15000,750,6,"PSU,MNC,Private,Government,Self-Employed",50000,1000000,12,60,14.0,24.0,60,20,"Tier1,Tier2,Tier3",https://www.muthootfinance.com/loans/personal-loan,2026-10-11,estimated
+Manappuram Finance,21,65,12000,600,6,"PSU,MNC,Private,Government,Self-Employed",25000,500000,12,60,15.0,29.0,60,20,"Tier1,Tier2,Tier3",https://www.manappuram.com/personal-loan.html,2026-10-11,estimated
+Home Credit India,19,65,10000,0,6,"PSU,MNC,Private,Government,Self-Employed",10000,240000,9,51,24.0,56.0,65,20,"Tier1,Tier2,Tier3",https://www.homecredit.co.in/en/loans/personal-loan,2026-10-11,confirmed
+KreditBee,21,45,10000,0,3,"PSU,MNC,Private,Government,Self-Employed",1000,300000,2,24,17.0,29.95,70,20,"Tier1,Tier2,Tier3",https://www.kreditbee.in/personal-loan,2026-10-11,confirmed
